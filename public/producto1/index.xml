@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hextra – Pluma estilográfica Ambition OpArt Deep Water M</title>
+    <link>http://localhost:1313/producto1/</link>
+    <description>Recent content in Pluma estilográfica Ambition OpArt Deep Water M on Hextra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Dec 2024 19:37:24 +0100</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/producto1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
