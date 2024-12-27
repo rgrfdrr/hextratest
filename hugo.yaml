@@ -35,9 +35,9 @@ enableInlineShortcodes: true
 
 menu:
   main:
-    - identifier: documentation
-      name: Documentation
-      pageRef: /docs
+    - identifier: violon
+      name: Guide d'achat violon
+      pageRef: /guideviolon
       weight: 1
     - name: Search
       weight: 5
