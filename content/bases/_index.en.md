@@ -5,10 +5,10 @@ draft = false
 +++
 # XXIV CONCURSO
 
-## 1. PARTICIPANTES
+## 1. Participantes
 Podrán participar todas aquellas personas que formen parte del club X. Se calcula que habrá un total de 21 participantes adultos y 2 infantiles.
 
-## 2. MODALIDADES
-### 2.1. MODALIDAD 1
-### 2.2. MODALIDAD 2
-### 2.3. MODALIDAD 3
+## 2. Modalidades
+### 2.1. Modalidad 1
+### 2.2. Modalidad 2
+### 2.3. Modalidad 3
