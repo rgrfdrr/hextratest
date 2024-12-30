@@ -35,9 +35,9 @@ enableInlineShortcodes: true
 
 menu:
   main:
-    - identifier: violon
-      name: Guide d'achat violon
-      pageRef: /guideviolon
+    - identifier: bases
+      name: Bases concurso
+      pageRef: /bases
       weight: 1
     - name: Search
       weight: 5
@@ -87,10 +87,10 @@ params:
   footer:
     enable: true
     displayCopyright: true
-    displayPoweredBy: true
+    displayPoweredBy: false
     width: normal
 
-  displayUpdatedDate: true
+  displayUpdatedDate: false
   dateFormat: "January 2, 2006"
 
   # Search
@@ -107,12 +107,12 @@ params:
       tokenize: forward
 
   editURL:
-    enable: true
+    enable: false
     base: "https://github.com/imfing/hextra/edit/main/exampleSite/content"
 
   blog:
     list:
-      displayTags: true
+      displayTags: false
       # date | lastmod | publishDate | title | weight
       sortBy: date
       sortOrder: desc # or "asc"
